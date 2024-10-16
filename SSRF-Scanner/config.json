@@ -1,0 +1,19 @@
+{
+    "sqlmap": {
+        "command": "sqlmap",
+        "options": "--batch --ignore-stdin"
+    },
+    "dalfox": {
+        "command": "dalfox",
+        "options": "--no-color"
+    },
+    "tplmap": {
+        "command": "python2 /home/hassen/tplmap/tplmap.py",
+        "options": ""
+    },
+    "commix": {
+        "command": "commix",
+        "options": "--batch --ignore-stdin"
+    },
+    "timeout": 420
+}
